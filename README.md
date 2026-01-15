@@ -1,6 +1,6 @@
 🔊🔊 **Check out [this](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5337463) new document with examples on how to implement the did_multiplegt_dyn on various, complex designs!** We provide detailed guidelines on how to address designs with (1) a binary treatment that can turn on an off, (2) a continuous absorbing treatment, (3) a discrete multivalued treatment that can increase or decrease multiple times over time, and (4) two, binary and absorbing treatments, where the second treatment always happens after the first. You can find the code and data for replicating this examples in the "Examples did_multiplegt_dyn on various designs" folder. 🔊🔊
 
-
+# Test
 
 # did_multiplegt_dyn
 Estimation in Difference-in-Difference (DID) designs with multiple groups and periods.
